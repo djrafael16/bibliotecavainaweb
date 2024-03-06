@@ -5,6 +5,7 @@ import bibliotecavainaweb.src.models.Livros;
 import bibliotecavainaweb.src.models.Usuario;
 import java.util.Scanner;
 
+// comentario criado para dar commit 
 public class App {
     private static Usuario usuarioLogado;
 
